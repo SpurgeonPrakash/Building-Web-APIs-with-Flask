@@ -23,7 +23,7 @@ Now we can install Flask using pip:
 
 `pip install flask`
 
-## Application: The first two files
+# Application: The first two files
 
 Let's now create two files: `app.py` and `quotes.py`.
 
@@ -52,5 +52,8 @@ At the end of the script we only start the Flask application if the Python scrip
 if __name__ == "__main__":
     app.run(debug=True)
 ```
+
+# Custom routing configuration
+
 
 
