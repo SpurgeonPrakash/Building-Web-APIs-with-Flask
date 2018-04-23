@@ -1,4 +1,4 @@
-# Building-Web-APIs-with-Flask ![Learning](https://img.shields.io/badge/learning-in%20progress-orange.svg?style=flat-square)
+# Building-Web-APIs-with-Flask ![Learning](https://img.shields.io/badge/Lynda-in%20progress-orange.svg?style=flat-square)
 
 This repo contains the app built following the Building Web APIs with Flask course by Gergo Bogdan on Lynda.com.
 
