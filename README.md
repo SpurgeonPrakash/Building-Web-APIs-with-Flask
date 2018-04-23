@@ -1,4 +1,4 @@
-# Building-Web-APIs-with-Flask ![Learning](https://img.shields.io/badge/Lynda-in%20progress-orange.svg?style=flat-square)
+# Building-Web-APIs-with-Flask ![Learning](https://img.shields.io/badge/Lynda-complete-green.svg?style=flat-square)
 
 This repo contains the app built following the Building Web APIs with Flask course by Gergo Bogdan on Lynda.com.
 
@@ -53,7 +53,19 @@ if __name__ == "__main__":
     app.run(debug=True)
 ```
 
-# Custom routing configuration
+# Flask template usage
+
+## Project folder structure
+
+Two important folders: `static` and `templates`. `static` will contain css, JavaScript, images, etc. `templates` is the folder Flask will look for for the Jinja2 templates.
+
+# What a terrible course
+
+There's was not muc to code along. The author mostly read what he had written. The worst coure I had ever taken on Lynda.com.
+
+
+
+
 
 
 
