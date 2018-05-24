@@ -59,13 +59,6 @@ if __name__ == "__main__":
 
 Two important folders: `static` and `templates`. `static` will contain css, JavaScript, images, etc. `templates` is the folder Flask will look for for the Jinja2 templates.
 
-# What a terrible course
+# Not a great course
 
-There's was not muc to code along. The author mostly read what he had written. The worst coure I had ever taken on Lynda.com.
-
-
-
-
-
-
-
+There's was not much to code along. The author mostly read what he had written. I would not recommend it.
